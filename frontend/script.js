@@ -1,4 +1,4 @@
-const API_URL = "https://YOUR_RENDER_URL.onrender.com/api/text";
+const API_URL = "https://ducktracker-statistics.onrender.com/api/text";
 
 async function sendText() {
   const text = document.getElementById("inputText").value;
